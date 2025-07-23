@@ -55,7 +55,7 @@ const projects = [
       "Sitio web personal desarrollado con React y Tailwind CSS para mostrar mis proyectos y habilidades.",
     image: portfolioImg,
     technologies: ["React", "Tailwind CSS", "Framer Motion"],
-    githubUrl: "https://github.com/yourusername/portfolio",
+    githubUrl: "https://github.com/Davidenko01/Portfolio-Davor",
     demoUrl: "",
   },
 ];
